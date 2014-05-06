@@ -4,7 +4,7 @@
 [Download PDF](https://github.com/ogrodnek/analog-metrics-talk/releases/download/1.0/analog-operational-metrics.pdf)
 
 
-## Copyright / License
+## License
 
 
 &copy; 2014, Larry Ogrodnek, Licensed under the Creative Commons [CC BY-NC-SA 4.0].
