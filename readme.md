@@ -1,6 +1,8 @@
 # Analog Operational Metric Talk
 
 
+[Download PDF](https://github.com/ogrodnek/analog-metrics-talk/releases/download/1.0/analog-operational-metrics.pdf)
+
 
 ## Copyright / License
 
